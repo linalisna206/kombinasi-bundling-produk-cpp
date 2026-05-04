@@ -17,9 +17,7 @@ Perhitungan Profit (Harga - Modal)
 
 Total kombinasi dihitung menggunakan:
 
-[
-C(n,r) = \frac{n!}{r!(n-r)!}
-]
+`C(n,r) = n! / (r! (n - r)!)`
 
 # Cara Kerja Program
 
@@ -39,12 +37,6 @@ Menampilkan kombinasi terbaik (profit maksimum)
 Sebagai implementasi materi kombinatorial dalam bentuk program nyata yang dapat membantu pengambilan keputusan dalam bisnis.
 
 # Author
-MATDIS 2A
-1. Cantika (2501697)
-3. Kayla Putri Pandita (2505955)
-4. Lina lisnawati (2507427)
-5. Priska Komala (2503039)
-6. Shafa Stevia (2505976)
 
 MATDIS 2A
 
